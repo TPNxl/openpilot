@@ -22,4 +22,3 @@ fi
 export STAGING_ROOT="/data/safe_staging"
 
 # hackathon: force fingerprint the 2025 Crosstrek
-export FINGERPRINT="SUBARU_CROSSTREK_2025"
